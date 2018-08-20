@@ -61,11 +61,11 @@ d. year
 (заполните данными)
 4. Объедините три массива в один многомерный массив
 5. Выведите значения всех трех массивов в виде:
---CAR name
-name model speed doors year--
+CAR name
+name model speed doors yea
 Например:
---CAR bmw
-X5 120 5 2015--
+CAR bmw
+X5 120 5 2015
 
 Задание #6
 
