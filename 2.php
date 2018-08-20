@@ -6,5 +6,5 @@ const MARKER = 23;
 echo 'из них '.MARKER. ' нарисовано фломастерами,' .PHP_EOL;
 const PENCIL = 40;
 echo PENCIL. ' карандашами, а остальные красками.'.PHP_EOL. 'Сколько рисунков выполнено красками?'.PHP_EOL;
-const PAINT = ALL - MARKER - PENCIL;
-echo 'ОТВЕТ: ' .PAINT. ' рисунков.';
+$paint = ALL - MARKER - PENCIL;
+echo 'ОТВЕТ: ' .$paint. ' рисунков.';
